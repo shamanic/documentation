@@ -1,0 +1,3 @@
+### How to play Shamanic
+    
+    coming soon...
