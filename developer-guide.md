@@ -39,3 +39,15 @@
 ### Web Application
     
         the main game website will exist as http://shamanic.io
+        
+        To build the webapp Repo on a Windows Machine, follow these instructions:
+        
+        Download yourself a copy of PostgreSQL (currently we're at version 9.4) - here:
+        http://www.postgresql.org/download/windows/
+        
+        Install it.
+        
+        Run pgAdmin III and make a new user "shamanic_user" under Login Roles
+        Create a new database called "shamanic" under Databases
+        
+        
