@@ -50,4 +50,9 @@
         Run pgAdmin III and make a new user "shamanic_user" under Login Roles
         Create a new database called "shamanic" under Databases
         
+        In the source for the web application, visit the "db" folder, run the "scheme.sql" in the 'shamanic' database to create the required database tables for the project
+        
+        Run the application: 
+          the expressjs binary to start the nodeJS app is in the 'bin' folder run as follows:
+             $> nodejs www
         
